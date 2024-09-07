@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/english-dictionary/static/css/main.a45ef48a.css",
+    "main.js": "/english-dictionary/static/js/main.745d72e2.js",
+    "static/js/453.e609289c.chunk.js": "/english-dictionary/static/js/453.e609289c.chunk.js",
+    "index.html": "/english-dictionary/index.html",
+    "main.a45ef48a.css.map": "/english-dictionary/static/css/main.a45ef48a.css.map",
+    "main.745d72e2.js.map": "/english-dictionary/static/js/main.745d72e2.js.map",
+    "453.e609289c.chunk.js.map": "/english-dictionary/static/js/453.e609289c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a45ef48a.css",
+    "static/js/main.745d72e2.js"
+  ]
+}
